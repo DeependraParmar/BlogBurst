@@ -23,5 +23,11 @@ a{
 }
 
 .container{
-  
+  min-height: 100vh;
+  margin: auto;
+  display: flex;
+  padding: 0 1rem;
+  flex-direction: column;
+  justify-content: space-between;
+
 }
