@@ -1,0 +1,27 @@
+:root{
+  --bg: #0c1222;
+  --bgsoft: rgba(12, 18, 34, 0.7);
+  --text: white;
+  --textsoft: #e5e5e5;
+  --accent: #38bdf8;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.container{
+  
+}
